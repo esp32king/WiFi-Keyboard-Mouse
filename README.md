@@ -12,8 +12,9 @@ Flash Here 👉 <a href="https://esptool.huhn.com/">Esptool.huhn.com</a>
 
 ### 📡 WiFi Connecting
 <br>WiFi Name/ssid --- Shadow</br>
-WiFi Pass      --- super61
+<br>WiFi Pass      --- super61</br>
 
+<br>bluetooth name --- Turu ❤ Love</br>
 After Connect go to <a href="http:192.168.4.1/">192.168.4.1</a> 👈 here
 
 ### created by Krishna Rajput UP61
