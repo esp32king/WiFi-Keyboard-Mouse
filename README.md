@@ -10,7 +10,7 @@ Flash Here 👉 <a href="https://esptool.huhn.com/">Esptool.huhn.com</a>
 
 <a href="https://github.com/esp32king/WiFi-Keyboard-Mouse/raw/refs/heads/main/WiFi-keyboard-mouse.bin">WiFi-Keyboard-Mouse.bin</a> → 0x10000
 
-### WiFi Connecting
+### 🛜 WiFi Connecting
 <br>WiFi Name/ssid --- Shadow</br>
 WiFi Pass      --- super61
 
