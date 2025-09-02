@@ -12,7 +12,7 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a
 
 ### 📡 WiFi Connecting
   WiFi Name/ssid --- Shadow
-<br>WiFi Pass      --- super61</br>
+<br>WiFi Pass      --- secret61</br>
 
 <br>bluetooth name --- Turu ❤ Love</br>
 
