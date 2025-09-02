@@ -2,7 +2,7 @@
 WiFi-Keyboard-Mouse
 
 # Code Flash
-Flash Here 👉 <a href="https://esptool.huhn.com/">Esptool.huhn.com</a>
+Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
 # 2nd Step
 <a href="https://github.com/esp32king/WiFi-Keyboard-Mouse/raw/refs/heads/main/bootloader.bin">bootloader.bin</a> → 0x1000
 
