@@ -20,7 +20,7 @@ After Connected go to <a href="http:192.168.4.1/">192.168.4.1</a> 👈 here
 
 ### created by Krishna Rajput UP61
 
-⚠ Warning this is only for education purpose don't harm anyone otherwise you responsible
+⚠ Warning this is only for education purpose don't harm anyone device otherwise you responsible
 
  ⚡  use on your own device
 
