@@ -19,3 +19,10 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a
 After Connected go to <a href="http:192.168.4.1/">192.168.4.1</a> 👈 here
 
 ### created by Krishna Rajput UP61
+
+⚡ Warning this is only for education purpose don't harm anyone otherwise you responsible
+
+   use on your own device
+
+
+⚡⚠
